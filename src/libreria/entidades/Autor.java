@@ -25,6 +25,9 @@ public class Autor {
     //Prueba para GitHub
     private String atributoRandom;
     private Byte atributoPrueba;
+    
+    //Prueba branch feature/matias/login
+    private String matias;
 
     //CONSTRUCTORES
     /**
