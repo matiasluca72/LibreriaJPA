@@ -21,6 +21,9 @@ public class Autor {
     @NotNull
     private String nombre;
     private Boolean alta;
+    
+    //Prueba para GitHub
+    private String atributoRandom;
 
     //CONSTRUCTORES
     /**
