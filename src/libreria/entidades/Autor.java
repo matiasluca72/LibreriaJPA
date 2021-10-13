@@ -24,6 +24,7 @@ public class Autor {
     
     //Prueba para GitHub
     private String atributoRandom;
+    private Byte atributoPrueba;
 
     //CONSTRUCTORES
     /**
