@@ -21,13 +21,6 @@ public class Autor {
     @NotNull
     private String nombre;
     private Boolean alta;
-    
-    //Prueba para GitHub
-    private String atributoRandom;
-    private Byte atributoPrueba;
-    
-    //Prueba branch feature/matias/login
-    private String matias;
 
     //CONSTRUCTORES
     /**
