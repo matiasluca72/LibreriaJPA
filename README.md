@@ -1,9 +1,9 @@
 # LibreriaJPA
 < ESPAÑOL >
 <h2>Proyecto Java para la práctica y estudio de la API de Persistencia en Java (JPA) estableciendo una conexión a una base de datos relacional MySQL.</h2>
-<br>
+<br> 
 El enunciado de la consigna es: <i>el desarrollo de un sistema de guardado de libros en JAVA 
-utilizando una base de datos MySQL y JPA como framework de persistencia. <br>
+utilizando una base de datos MySQL y JPA como framework de persistencia. <br> <br>
 Al alumno le toca desarrollar, las siguientes funcionalidades: 
   <ul>
 <li>1) Crear base de datos Librería</li>
@@ -20,13 +20,12 @@ Al alumno le toca desarrollar, las siguientes funcionalidades:
 <li>12) Búsqueda de un libro/s por nombre de Editorial.</li>
 <li>13) Agregar las siguientes validaciones a todas las funcionalidades de la aplicación:
   <ul>
-<li>• Validar campos obligatorios.</li>
-<li>• No ingresar datos duplicados.</li>
+<li>Validar campos obligatorios.</li>
+<li>No ingresar datos duplicados.</li>
   </ul>
   </li>
   </ul>
 </i>
-<br>
 <h3>Algunas características del proyecto realizado:</h3>
 <ul>
   <li>Creación y manipulación del archivo de persistencia <strong>persistence.xml</strong> configurándolo con el proveedor <strong>EclipseLink</strong></li>
@@ -42,5 +41,5 @@ Al alumno le toca desarrollar, las siguientes funcionalidades:
 Este proyecto fué <strong>altamente documentado</strong> para conseguir entender y comprender la razón de ser de cada MÉTODO y ATRIBUTO y así maximizar el
 conocimiento y aprendizaje del uso e importancia de la API de Persistencia en Java (JPA).
 
-<br>
+<br> <br>
 Este proyecto fue parte de las prácticas realizadas en el curso de Programador Web FullStack con Java de <a href="https://www.linkedin.com/company/eggcooperation/" target="blank_">EGG Cooperation</a>.
