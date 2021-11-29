@@ -21,10 +21,10 @@ public class Libro {
     //ATRIBUTOS
     @Id
     @GeneratedValue
-    private String id;
+    private String id; // PRIMARY KEY
 
     @NotNull
-    private Long isbn; // PRIMARY KEY
+    private Long isbn; // NO NULO
 
     @NotNull
     private String titulo; // NO NULO
@@ -38,10 +38,10 @@ public class Libro {
     private Boolean alta;
 
     @ManyToOne(cascade = CascadeType.REFRESH, optional = false)
-    private Autor autor; // RELACIÓN 1 A 1
+    private Autor autor; // RELACIÓN MUCHOS A 1
 
     @ManyToOne(cascade = CascadeType.REFRESH, optional = false)
-    private Editorial editorial; // RELACIÓN 1 A 1
+    private Editorial editorial; // RELACIÓN MUCHOS A 1
 
     //CONSTRUCTORES
     /**
