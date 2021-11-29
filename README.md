@@ -29,7 +29,7 @@ Al alumno le toca desarrollar, las siguientes funcionalidades:
 <br>
 <h3>Algunas características del proyecto realizado:</h3>
 <ul>
-  <li>Creación y manipulación del archivo de persistencia <strong>persisten.xml</strong> configurándolo con el proveedor <strong>EclipseLink</strong></li>
+  <li>Creación y manipulación del archivo de persistencia <strong>persistence.xml</strong> configurándolo con el proveedor <strong>EclipseLink</strong></li>
   <li>Desarrollo del patrón de diseño DAO (Data Access Object) para cada entidad</li>
   <li>Desarrollo desde 0 de los principales métodos CRUD utilizando la Clase <strong>EntityManager</strong></li>
   <li>Desarrollo de otras operaciones de consulta puntuales para la práctica de armado de queries nativas desde Java usando <strong>JPQL</strong></li>
@@ -43,4 +43,4 @@ Este proyecto fué <strong>altamente documentado</strong> para conseguir entende
 conocimiento y aprendizaje del uso e importancia de la API de Persistencia en Java (JPA).
 
 <br>
-Este proyecto fue parte de las prácticas realizadas en el curso de Programador Web FullStack con Java de <a href="https://www.linkedin.com/company/eggcooperation/" target="blank_">EGG Cooperation</a>
+Este proyecto fue parte de las prácticas realizadas en el curso de Programador Web FullStack con Java de <a href="https://www.linkedin.com/company/eggcooperation/" target="blank_">EGG Cooperation</a>.
